@@ -10,3 +10,11 @@ function change(){
     console.log("it's cold")
     return 100
 }
+
+console.log(" - - - - - - - - - - - - - - -")
+
+if(true){
+    console.log("foreign")
+} else{
+    console.log("native")
+}
